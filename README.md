@@ -1,6 +1,6 @@
 # encore project
 
-Welcome to ENCORE Technical Mentorship page! Here, students can find a wealth of materials and scheduled guidance designed to help you grow your IT technical skills. Our program offers a variety of instructor-led online technical sessions, facilitations, and practical workshops, all aimed at providing comprehensive learning support, and hands-on real-life scenario experience.
+Welcome to ENCORE Technical Mentorship project page! Here, students can find a wealth of materials and scheduled guidance designed to help you grow your IT technical skills. Our program offers a variety of instructor-led online technical sessions, facilitations, and practical workshops, all aimed at providing comprehensive learning support, and hands-on real-life scenario experience.
 
 Whether you're looking to deepen your understanding of a specific topic or seeking guidance on your career path, our mentorship resources are here to help you succeed.
 
