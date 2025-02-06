@@ -1,6 +1,6 @@
 # Dive into your new IT journey: get a mentor to quicken your learning, or a sidekick to help you on your quest
 
-Welcome to ENCORE Technical Mentorship project page! Here, students can find a wealth of materials and scheduled guidance designed to help you grow your IT technical skills. Our program offers a variety of instructor-led online technical sessions, facilitations, and practical workshops, all aimed at providing comprehensive learning support, and hands-on real-life scenario experience.
+Welcome to **ENCORE Technical Mentorship** project page! Here, students can find a wealth of materials and scheduled guidance designed to help you grow your IT technical skills. Our program offers a variety of instructor-led online technical sessions, facilitations, and practical workshops, all aimed at providing comprehensive learning support, and hands-on real-life scenario experience.
 
 Whether you're looking to deepen your understanding of a specific topic or seeking guidance on your career path, our mentorship resources are here to help you succeed.
 
@@ -71,21 +71,15 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 
 ### get in contact
 
-<form action="https://formspree.io/f/marianleica@lesformidables.club" method="POST">
-  <label for="surname">Surname:</label><br>
+<form action="https://formspree.io/f/xjkgoylj" method="POST">
+  <label for="surname"><strong>Surname:</strong></label><br>
   <input type="text" id="surname" name="surname" required><br><br>
   
-  <label for="topics">Topics of Interest:</label><br>
+  <label for="topics"><strong>Topics of Interest:</strong></label><br>
   <input type="text" id="topics" name="topics" required><br><br>
   
-  <label for="message">Message:</label><br>
+  <label for="message"><strong>Message:</strong></label><br>
   <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
   
   <input type="submit" value="Submit">
 </form>
-
-
-
-
-
-
