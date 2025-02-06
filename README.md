@@ -23,6 +23,8 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">python core</span>
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">windows troubleshooting</span>
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">kubernetes application development</span>  
+  <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">hyper-v virtualization</span>  
+  <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">windows server failover clustering</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">azure cloud development</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">cybersecurity</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">linux system administration</span>  
