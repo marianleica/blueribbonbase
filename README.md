@@ -53,7 +53,7 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 </div>
 <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
-<div style="font-weight: bold; margin-bottom: 10px;">Custom Skill Based Technical Training</div>
+<div style="font-weight: bold; margin-bottom: 10px;">Skill Based Technical Training</div>
 
 <p>Get the opportunity to receive training tailored to your specific needs, whether it's learning a new skill or gaining a certification.</p>
   </div>
