@@ -40,5 +40,33 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   });
 </script>
 
+## service plans
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
+    **General IT Mentorship**
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+  </div>
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
+    **Custom Skill Based Technical Training**
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+  </div>
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
+    **Tech Sidekick by Your Side**
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll('div[style*="flex: 1"]').forEach(function(el) {
+    el.addEventListener('mouseover', function() {
+      el.style.backgroundColor = '#ccc';
+    });
+    el.addEventListener('mouseout', function() {
+      el.style.backgroundColor = '';
+    });
+  });
+</script>
+
 
 
