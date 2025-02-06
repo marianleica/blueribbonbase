@@ -40,26 +40,26 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   });
 </script>
 
-## service plans
+## get the right plan for you
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
-    **General IT Mentorship**
+**General IT Mentorship**
 
-    <p>Embarking on a journey in the IT field can be both exciting and challenging. Having the opportunity of personalized mentorship can make all the difference.
-    </p>
+<p>Embarking on a journey in the IT field can be both exciting and challenging. Having the opportunity of personalized mentorship can make all the difference.
+</p>
   </div>
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
-    **Custom Skill Based Technical Training**
+**Custom Skill Based Technical Training**
 
-    <p>Get the opportunity to receive training tailored to your specific needs, whether it's learning a new skill or gaining a certification.</p>
+<p>Get the opportunity to receive training tailored to your specific needs, whether it's learning a new skill or gaining a certification.</p>
   </div>
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
-    **Tech Sidekick by Your Side**
-    
+**Tech Sidekick by Your Side**
+
     <p>Imagine having a knowledgeable sidekick by your side as you tackle your personal projects, whether it's excelling in your technical job or building up your portfolio. </p>
   </div>
 </div>
