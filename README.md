@@ -45,15 +45,16 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
     **General IT Mentorship**
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+    <p>Embarking on a journey in the IT field can be both exciting and challenging. Having the opportunity of personalized mentorship can make all the difference.
+    </p>
   </div>
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
     **Custom Skill Based Technical Training**
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+    <p>Get the opportunity to receive training tailored to your specific needs, whether it's learning a new skill or gaining a certification.</p>
   </div>
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
     **Tech Sidekick by Your Side**
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+    <p>Imagine having a knowledgeable sidekick by your side as you tackle your personal projects, whether it's excelling in your technical job or building up your portfolio. </p>
   </div>
 </div>
 
@@ -67,6 +68,24 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
     });
   });
 </script>
+
+### get in contact
+
+<form action="https://formspree.io/f/marianleica@lesformidables.club" method="POST">
+  <label for="surname">Surname:</label><br>
+  <input type="text" id="surname" name="surname" required><br><br>
+  
+  <label for="topics">Topics of Interest:</label><br>
+  <input type="text" id="topics" name="topics" required><br><br>
+  
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+  
+  <input type="submit" value="Submit">
+</form>
+
+
+
 
 
 
