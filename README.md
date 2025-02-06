@@ -47,13 +47,13 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
-**General IT Mentorship**
+<div style="font-weight: bold; margin-bottom: 10px;">General IT Mentorship</div>
 
 <p>Embarking on a journey in the IT field can be both exciting and challenging. Having the opportunity of personalized mentorship can make all the difference.</p>
 </div>
 <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
-**Custom Skill Based Technical Training**
+<div style="font-weight: bold; margin-bottom: 10px;">Custom Skill Based Technical Training</div>
 
 <p>Get the opportunity to receive training tailored to your specific needs, whether it's learning a new skill or gaining a certification.</p>
   </div>
