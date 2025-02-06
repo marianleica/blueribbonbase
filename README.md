@@ -47,10 +47,9 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 
 **General IT Mentorship**
 
-<p>Embarking on a journey in the IT field can be both exciting and challenging. Having the opportunity of personalized mentorship can make all the difference.
-</p>
-  </div>
-  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
+<p>Embarking on a journey in the IT field can be both exciting and challenging. Having the opportunity of personalized mentorship can make all the difference.</p>
+</div>
+<div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
 **Custom Skill Based Technical Training**
 
@@ -60,7 +59,7 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 
 **Tech Sidekick by Your Side**
 
-    <p>Imagine having a knowledgeable sidekick by your side as you tackle your personal projects, whether it's excelling in your technical job or building up your portfolio. </p>
+<p>Imagine having a knowledgeable sidekick by your side as you tackle your personal projects, whether it's excelling in your technical job or building up your portfolio. </p>
   </div>
 </div>
 
