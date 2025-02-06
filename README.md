@@ -8,6 +8,8 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 - anyone looking for a technical mentor
 - anyone looking for a technical sidekick
 
+#
+
 ### topics & skills we can help you grow fond of:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -73,8 +75,9 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
     });
   });
 </script>
+#
 
-### get in contact
+## get in contact
 
 <form action="https://formspree.io/f/xjkgoylj" method="POST">
   <label for="surname"><strong>surname:</strong></label><br>
