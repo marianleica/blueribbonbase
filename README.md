@@ -8,8 +8,6 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 - anyone looking for a technical mentor
 - anyone looking for a technical sidekick
 
-#
-
 ### topics & skills we can help you grow fond of:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -61,9 +59,9 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   </div>
   <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px; transition: background-color 0.3s;">
 
-#### Tech Sidekick by Your Side
+**Tech Sidekick by Your Side**
 
-<p>Imagine having a knowledgeable sidekick by your side as you tackle your personal projects, whether it's excelling in your technical job or building up your portfolio. </p>
+<p>Imagine having a knowledgeable sidekick by your side as you tackle your personal projects, whether it's excelling in your technical job or building up your portfolio.</p>
   </div>
 </div>
 
@@ -77,7 +75,6 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
     });
   });
 </script>
-#
 
 ## get in contact
 
