@@ -72,14 +72,14 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 ### get in contact
 
 <form action="https://formspree.io/f/xjkgoylj" method="POST">
-  <label for="surname"><strong>Surname:</strong></label><br>
+  <label for="surname"><strong>surname:</strong></label><br>
   <input type="text" id="surname" name="surname" required><br><br>
-  
-  <label for="topics"><strong>Topics of Interest:</strong></label><br>
-  <input type="text" id="topics" name="topics" required><br><br>
-  
-  <label for="message"><strong>Message:</strong></label><br>
+  <label for="skills"><strong>skills interested in:</strong></label><br>
+  <input type="text" id="skills" name="skills" required><br><br>
+  <label for="contact"><strong>contact:</strong></label><br>
+  <input type="text" id="skills" name="skills" required><br><br>
+  <label for="message"><strong>message:</strong></label><br>
   <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
   
-  <input type="submit" value="Submit">
+  <input type="submit" value="send">
 </form>
