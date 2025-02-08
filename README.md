@@ -95,7 +95,7 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
 ## get in contact to get started
 
 <form action="https://formspree.io/f/xjkgoylj" method="POST">
-  <label for="surname"><strong>surname:</strong></label><br>
+  <label for="forename"><strong>forename:</strong></label><br>
   <input type="text" id="surname" name="surname" required><br><br>
   <label for="skills"><strong>skills interested in:</strong></label><br>
   <input type="text" id="skills" name="skills" required><br><br>
