@@ -3,16 +3,6 @@ az
 
 Azure Networking Resources are a suite of cloud networking services provided by Microsoft Azure that enable organizations to build, manage, and secure their network infrastructure in the cloud. These services include virtual networks, load balancers, VPN gateways, and more, providing the flexibility and scalability needed to meet various networking requirements.
 
-#### Features
-
-Azure Networking Resources offer several features that enhance network management and security:
-
-- **Scalability**: Provides scalable networking resources that can be adjusted based on demand, ensuring optimal performance and cost-efficiency.
-- **Security**: Implements robust security measures, including network security groups, firewalls, and encryption.
-- **Integration**: Seamlessly integrates with other Azure services, such as compute, storage, and databases.
-- **Global Reach**: Operates data centers in multiple geographic regions, enabling low-latency access and geographic redundancy.
-- **Automation**: Supports automation and orchestration of networking resources using tools like Azure Resource Manager and Azure DevOps.
-
 #### Key Services
 
 Azure Networking Resources provide a variety of services that cater to different networking needs:

@@ -3,16 +3,6 @@
 
 Azure Compute is a suite of cloud computing services provided by Microsoft Azure that enables organizations to run applications and workloads in the cloud. Azure Compute offers a range of services, including virtual machines, containers, serverless computing, and more, providing the flexibility and scalability needed to meet various business requirements.
 
-#### Features
-
-Azure Compute offers several features that enhance cloud computing and management:
-
-- **Scalability**: Provides scalable resources that can be adjusted based on demand, ensuring optimal performance and cost-efficiency.
-- **Flexibility**: Supports a wide range of computing options, including virtual machines, containers, and serverless computing.
-- **Integration**: Seamlessly integrates with other Azure services, such as storage, networking, and databases.
-- **Security**: Implements robust security measures, including encryption, access control, and compliance with industry standards.
-- **Automation**: Supports automation and orchestration of computing resources using tools like Azure Resource Manager and Azure DevOps.
-
 #### Key Services
 
 Azure Compute provides a variety of services that cater to different computing needs:
