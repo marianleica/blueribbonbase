@@ -1,6 +1,6 @@
 # Dive into your new IT journey: Get a mentor to quicken your learning, or a sidekick to assist you on your quest
 
-Welcome to **Blue Ribbon Basep** digital tribe page! Here, students can find a wealth of materials and scheduled guidance designed to help you grow your IT technical skills. Our program offers a variety of instructor-led online technical sessions, facilitations, and practical workshops, all aimed at providing comprehensive learning support, and hands-on real-life scenario experience.
+Welcome to **Blue Ribbon Base** digital tribe page! Here, students can find a wealth of materials and scheduled guidance designed to help you grow your IT technical skills. Our program offers a variety of instructor-led online technical sessions, facilitations, and practical workshops, all aimed at providing comprehensive learning support, and hands-on real-life scenario experience.
 
 Whether you're looking to deepen your understanding of a specific topic or seeking guidance on your career path, our mentorship resources are here to help you succeed.
 
