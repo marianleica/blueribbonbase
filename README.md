@@ -75,17 +75,17 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   });
 </script>
 
-### learning modules
+### learning modules for skill-based training
 
 - Module 1: System Administration (Windows Server & Hyper-V)
 - Module 2: Cloud (Microsoft Azure)
 - Module 3: Operating Systems (Linux)
 - Module 4: Containers (Docker & Kubernetes)
-- *Module 5: DevOps (Azure DevOps)
-- *Module 6: Automation (Infrastructure-as-Code)
-- *Module 7: Machine learning and generative AI (Azure AI)
+- *<span style="color: gray;">Module 5: DevOps (Azure DevOps)</span>
+- *<span style="color: gray;">Module 6: Automation (Infrastructure-as-Code)</span>
+- *<span style="color: gray;">Module 7: Machine learning and generative AI (Azure AI)</span>
 
-(*) Modules currently unavailable due to student entry list being filled up or too many constraints on the platform environment availability. Check again later.
+(*) <span style="color: gray;">Modules currently unavailable due to student entry list being filled up or too many constraints on the platform environment availability. Check again later.</span>
 
 ## get in contact to get started
 
