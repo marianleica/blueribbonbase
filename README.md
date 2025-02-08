@@ -20,6 +20,7 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">c#</span>
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">python core</span>
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">terraform</span>  
+  <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">windows memory dump debugging</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">computer networking</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">windows troubleshooting</span>
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">kubernetes application development</span>  
