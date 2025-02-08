@@ -101,8 +101,8 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   <input type="text" id="skills" name="skills" required><br><br>
   <label for="contact"><strong> your contact:</strong></label><br>
   <input type="text" id="skills" name="skills" required><br><br>
-  <label for="message"><strong>message:</strong></label><br>
-  <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+  <label for="details"><strong>more details:</strong></label><br>
+  <textarea id="details" name="details" rows="4" cols="50" required></textarea><br><br>
   
   <input type="submit" value="send">
 </form>
