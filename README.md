@@ -75,7 +75,19 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   });
 </script>
 
-## get in contact
+### learning modules
+
+- Module 1: System Administration (Windows Server & Hyper-V)
+- Module 2: Cloud (Microsoft Azure)
+- Module 3: Operating Systems (Linux)
+- Module 4: Containers (Docker & Kubernetes)
+- *Module 5: DevOps (Azure DevOps)
+- *Module 6: Automation (Infrastructure-as-Code)
+- *Module 7: Machine learning and generative AI (Azure AI)
+
+(*) Modules currently unavailable due to student entry list being filled up or too many constraints on the platform environment availability. Check again later.
+
+## get in contact to get started
 
 <form action="https://formspree.io/f/xjkgoylj" method="POST">
   <label for="surname"><strong>surname:</strong></label><br>
