@@ -30,6 +30,7 @@ Whether you're looking to deepen your understanding of a specific topic or seeki
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">cybersecurity</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">linux system administration</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">azure artificial intelligence</span>  
+  <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">ci/cd pipelines</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">cloud solution architecture</span>  
   <span style="border: 1px solid #ccc; border-radius: 15px; padding: 5px 10px; transition: background-color 0.3s;">system design</span>  
 </div>
