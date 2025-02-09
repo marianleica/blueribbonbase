@@ -3,17 +3,6 @@
 
 Windows Server Hyper-V is a virtualization platform provided by Microsoft that allows administrators to create and manage virtual machines (VMs) on a Windows Server. Hyper-V provides a robust and scalable solution for running multiple operating systems on a single physical server, optimizing resource usage, and improving flexibility.
 
-#### Features
-
-Windows Server Hyper-V offers several features that enhance virtualization management and performance:
-
-- **Virtual Machine Management**: Create, configure, start, stop, and delete virtual machines.
-- **Resource Allocation**: Allocate CPU, memory, storage, and network resources to virtual machines.
-- **Live Migration**: Move running virtual machines between physical hosts without downtime.
-- **Snapshot Management**: Create and manage snapshots of virtual machines for backup and recovery purposes.
-- **Virtual Networking**: Configure virtual networks, network adapters, and VLANs for virtual machines.
-- **Integration Services**: Install and manage integration services for improved performance and functionality.
-
 #### Usage
 
 To use Windows Server Hyper-V, follow these steps:
